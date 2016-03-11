@@ -1,8 +1,8 @@
 <?php
-	$servername = "ec2-52-6-203-170.compute-1.amazonaws.com";
-	$username = "s_user9";
-	$password = "s_user9";
-	$dbname = "s_user9";
+	$servername = "server name";
+	$username = "user name";
+	$password = "password";
+	$dbname = "db name";
 
 	$pname = $_POST["pname"];
 	$ptime = $_POST["ptime"];
