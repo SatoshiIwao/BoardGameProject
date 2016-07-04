@@ -2,7 +2,9 @@ this is test 1 for git add *
 
 i change something on this file.
 
-I change something on this file by master branch!
+i change something on this file by testing branch.
 
-this is test for merging (master side)
+i also change something on this file by testing branch. 
+
+test for merging and solved merge conflict  
 
