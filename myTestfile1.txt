@@ -4,3 +4,5 @@ i change something on this file.
 
 I change something on this file by master branch!
 
+this is test for merging (master side)
+
