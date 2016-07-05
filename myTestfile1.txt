@@ -8,6 +8,4 @@ i also change something on this file by testing branch.
 
 test for merging and solved merge conflict  
 
-
-I change something in remote!! 
-
+test for fetch in remote!
